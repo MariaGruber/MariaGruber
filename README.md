@@ -54,7 +54,7 @@ Real-world projects involved the application of clean code practices and scalabi
 
 
 📫 How to reach me:
-find me on <a href="https://www.linkedin.com/maria-gruber92" target="_blank">LinkedIn</a> or email me at grubermar1992@gmail.com
+find me on <a href="https://www.linkedin.com/in/maria-gruber92" target="_blank">LinkedIn</a> or email me at grubermar1992@gmail.com
 
 
 
